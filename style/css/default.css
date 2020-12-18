@@ -1,4 +1,11 @@
 
+body {
+    background-color: #fffc38;
+    padding: 2px;
+    width: 100%;
+}
+
+
 #backgroundImg {
     position: absolute;
     top: 0;
